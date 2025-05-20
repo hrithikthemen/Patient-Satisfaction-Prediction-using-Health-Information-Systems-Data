@@ -1,6 +1,7 @@
 # Patient-Satisfaction-Prediction-using-Health-Information-Systems-Data
 This project explores the impact of Health Information Systems (HIS) on patient satisfaction using real-world survey data. A multiple linear regression model is built to identify which healthcare service factors—such as doctor communication, hygiene, appointment management, and diagnostic accuracy—most influence patient satisfaction scores.
-✨ Overview
+
+# ✨ Overview
 
 This project explores how digital tools in healthcare—like appointment systems, communication with doctors, lab services, and diagnostics—affect patient satisfaction. Using a real-world dataset, I built a **regression model** to understand which aspects of a healthcare system contribute most to a positive patient experience.
 
